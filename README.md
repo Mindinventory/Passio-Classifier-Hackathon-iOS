@@ -44,7 +44,7 @@ https://user-images.githubusercontent.com/90024333/195814281-896bd295-8255-46d3-
 
 - Last step is to save the cloned project to your computer. Once this has been done, the project opens in Xcode and it’s yours to play with!
 
-- In the ```constants```, replace the key.  
+- In the ```constants``` replace the key.  
 ```swift 
 let key = "Your_SDK_Key"  
 ```
