@@ -492,7 +492,7 @@
 				DEVELOPMENT_TEAM = 7224G6JACN;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = YogaPose/Support/Info.plist;
-				INFOPLIST_KEY_CFBundleDisplayName = YogAI;
+				INFOPLIST_KEY_CFBundleDisplayName = "Mindful YogAI";
 				INFOPLIST_KEY_NSCameraUsageDescription = "Record video to analyze yoga pose";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
@@ -525,7 +525,7 @@
 				DEVELOPMENT_TEAM = 7224G6JACN;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = YogaPose/Support/Info.plist;
-				INFOPLIST_KEY_CFBundleDisplayName = YogAI;
+				INFOPLIST_KEY_CFBundleDisplayName = "Mindful YogAI";
 				INFOPLIST_KEY_NSCameraUsageDescription = "Record video to analyze yoga pose";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
