@@ -1,4 +1,4 @@
-# YogAI
+# Mindful YogAI
 
 ## Category
 - Health & Fitness
