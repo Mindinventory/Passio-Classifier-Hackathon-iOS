@@ -1,0 +1,4 @@
+framework module PassioPlatformSDK {
+  header "PassioPlatformSDK-Swift.h"
+  requires objc
+}

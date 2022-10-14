@@ -29,7 +29,9 @@ https://user-images.githubusercontent.com/90024333/195814281-896bd295-8255-46d3-
 - Yoga Details: The app provides details of specific yogas with benefits and other details.
 
 ## Requirements
-- Requires iOS 13.0 or later.
+- App will only run on iOS 13 or newer. 
+- App can only be used on a device and will not run on a simulator
+- App requires access to iPhone's camera
 
 ## Installation
 - Firstly you want to open up the project page on github that you would like to clone. You should see a small row of three buttons reading ‘Go to file’, ‘Add file’ and lastly ‘Code’. If you click on this last button, you will see the link to which you will need to copy.
@@ -42,7 +44,10 @@ https://user-images.githubusercontent.com/90024333/195814281-896bd295-8255-46d3-
 
 - Last step is to save the cloned project to your computer. Once this has been done, the project opens in Xcode and it’s yours to play with!
 
-- Add your key in "constants.swift". 
+- In the ```constants```, replace the key.  
+```swift 
+let key = "Your_SDK_Key"  
+```
 
 ## Setup Instructions
 - App will work in real device only so connect the device to your Mac, and choose the device in the run destination menu.
