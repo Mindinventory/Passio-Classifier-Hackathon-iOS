@@ -42,9 +42,20 @@ https://user-images.githubusercontent.com/90024333/195814281-896bd295-8255-46d3-
 
 - Last step is to save the cloned project to your computer. Once this has been done, the project opens in Xcode and it’s yours to play with!
 
+- Add your key in "constants.swift". 
+
 ## Setup Instructions
 - App will work in real device only so connect the device to your Mac, and choose the device in the run destination menu.
 
 -  Add your Apple ID in Accounts preferences and assign the project to a team on the Signing & Capabilities pane of the project editor. If you belong to the Apple Developer Program, you need to register the device before you can run the app.
 
 - Click the Run button to build and run the app on the selected device. View the status of the build in the activity area of the toolbar.
+
+## Future Improvements
+- Library of yoga poses with detailed advice and instructions.
+
+- We can add unique yoga classes displayed in beautiful HD videos.
+
+- We can integrate with Health app to track calories burned, workouts and mindful minutes!
+
+- Smart Search will help you find poses based on type, focus and ability.
