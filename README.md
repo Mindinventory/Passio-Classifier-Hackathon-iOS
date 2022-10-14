@@ -14,8 +14,7 @@ Searching allows you to find any yoga asana to get the benefits of its.
 
 
 ## Project Screen Shot(s)
-![IMG_4570](https://user-images.githubusercontent.com/90024333/195810063-6eef5fdd-18a3-4201-8d2d-377f3bb8af07.PNG )![IMG_4569](https://user-images.githubusercontent.com/90024333/195810088-d2ea1ace-5986-4150-be4a-2287d1fbe7f8.PNG)![IMG_4572](https://user-![IMG_4571](https://user-images.githubusercontent.com/90024333/195810171-e973fa84-4818-4acf-960e-6f9f5d8ac96b.PNG)
-images.githubusercontent.com/90024333/195810137-a183e62a-290f-4659-9889-4503150da8c4.PNG)
+<img src="https://user-images.githubusercontent.com/90024333/195810063-6eef5fdd-18a3-4201-8d2d-377f3bb8af07.PNG" height="22%" width="22%"> <img src ="https://user-images.githubusercontent.com/90024333/195810088-d2ea1ace-5986-4150-be4a-2287d1fbe7f8.PNG" height="22%" width="22%"><img src ="https://user-images.githubusercontent.com/90024333/195814869-8f349328-14db-45ee-90dc-1b00b7463e6f.PNG" height="22%" width="22%"> <img src ="https://user-images.githubusercontent.com/90024333/195815030-a7276e0f-2c80-4aa5-a376-5973da584cb1.PNG" height="22%" width="22%">
 
 https://user-images.githubusercontent.com/90024333/195814281-896bd295-8255-46d3-b6df-3774735827af.mp4
 
